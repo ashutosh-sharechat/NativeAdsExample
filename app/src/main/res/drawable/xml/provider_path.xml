@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="external_share_files"
+        path="." />
+    <files-path
+        name="internal_share_files"
+        path="." />
+    <cache-path
+        name="internal_cache_files"
+        path="." />
+    <cache-path
+        name="tmp"
+        path="/" />
+    <files-path
+        name="http_logs"
+        path="http_logs/" />
+</paths>
